@@ -1,0 +1,1188 @@
+SDK_VERSION: 33
+SDK_RELASE: 13
+SERIAL: unknown
+MODEL: sdk_gphone64_x86_64
+ID: TE1A.220922.012
+Manufacture: Google
+brand: google
+type: userdebug
+user: android-build
+BASE: 1
+INCREMENTAL 9302419
+BOARD: goldfish_x86_64
+BRAND google
+HOST abfarm-release-2004-0110
+FINGERPRINT: google/sdk_gphone64_x86_64/emu64x:13/TE1A.220922.012/9302419:userdebug/dev-keys
+Version Code: 13
+Phone numbers : 
+
+Emails : 
+
+Installed apks : 
+Name :com.google.android.networkstack.tethering
+Dir :/apex/com.android.tethering/priv-app/TetheringGoogle@331012010/TetheringGoogle.apk
+
+Name :com.android.cts.priv.ctsshim
+Dir :/apex/com.android.apex.cts.shim/priv-app/CtsShimPriv@1/CtsShimPriv.apk
+
+Name :com.google.android.youtube
+Dir :/product/app/YouTube/YouTube.apk
+
+Name :com.android.uwb.resources
+Dir :/apex/com.android.uwb/priv-app/ServiceUwbResources@331015010/ServiceUwbResources.apk
+
+Name :com.android.internal.display.cutout.emulation.corner
+Dir :/product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk
+
+Name :com.google.android.ext.services
+Dir :/apex/com.android.extservices/priv-app/GoogleExtServices@331012000/GoogleExtServices.apk
+
+Name :com.android.internal.display.cutout.emulation.double
+Dir :/product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk
+
+Name :com.android.providers.telephony
+Dir :/system/priv-app/TelephonyProvider/TelephonyProvider.apk
+
+Name :com.android.dynsystem
+Dir :/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk
+
+Name :com.google.android.googlequicksearchbox
+Dir :/product/priv-app/Velvet/Velvet.apk
+
+Name :com.google.android.cellbroadcastservice
+Dir :/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastServiceModule@331013000/GoogleCellBroadcastServiceModule.apk
+
+Name :com.android.providers.calendar
+Dir :/system/priv-app/CalendarProvider/CalendarProvider.apk
+
+Name :com.android.providers.media
+Dir :/system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk
+
+Name :com.google.android.onetimeinitializer
+Dir :/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
+
+Name :com.google.android.ext.shared
+Dir :/system/app/GoogleExtShared/GoogleExtShared.apk
+
+Name :com.android.internal.systemui.navbar.gestural_wide_back
+Dir :/product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk
+
+Name :com.android.wallpapercropper
+Dir :/system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk
+
+Name :com.android.managedprovisioning.auto_generated_rro_product__
+Dir :/product/overlay/ManagedProvisioning__auto_generated_rro_product.apk
+
+Name :com.android.carrierconfig.auto_generated_rro_vendor__
+Dir :/vendor/overlay/CarrierConfig__auto_generated_rro_vendor.apk
+
+Name :com.android.systemui.emulation.pixel_3_xl
+Dir :/product/overlay/SystemUIEmulationPixel3XL/SystemUIEmulationPixel3XLOverlay.apk
+
+Name :com.android.systemui.emulation.pixel_4_xl
+Dir :/product/overlay/SystemUIEmulationPixel4XL/SystemUIEmulationPixel4XLOverlay.apk
+
+Name :com.android.simappdialog.auto_generated_rro_product__
+Dir :/product/overlay/SimAppDialog__auto_generated_rro_product.apk
+
+Name :com.android.externalstorage
+Dir :/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
+
+Name :com.android.htmlviewer
+Dir :/system/app/HTMLViewer/HTMLViewer.apk
+
+Name :com.android.companiondevicemanager
+Dir :/system/app/CompanionDeviceManager/CompanionDeviceManager.apk
+
+Name :com.android.mms.service
+Dir :/system/priv-app/MmsService/MmsService.apk
+
+Name :com.android.providers.downloads
+Dir :/system/priv-app/DownloadProvider/DownloadProvider.apk
+
+Name :com.android.systemui.auto_generated_rro_product__
+Dir :/product/overlay/SystemUIGoogle__auto_generated_rro_product.apk
+
+Name :com.google.android.apps.messaging
+Dir :/product/priv-app/PrebuiltBugle/PrebuiltBugle.apk
+
+Name :com.google.android.soundpicker
+Dir :/product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk
+
+Name :com.breel.wallpapers18
+Dir :/product/app/WallpapersBReel2018/WallpapersBReel2018.apk
+
+Name :com.google.android.configupdater
+Dir :/product/priv-app/ConfigUpdater/ConfigUpdater.apk
+
+Name :com.android.internal.emulation.pixel_3a_xl
+Dir :/product/overlay/EmulationPixel3aXL/EmulationPixel3aXLOverlay.apk
+
+Name :com.google.android.providers.media.module
+Dir :/apex/com.android.mediaprovider/priv-app/MediaProviderGoogle@331011020/MediaProviderGoogle.apk
+
+Name :com.android.internal.emulation.pixel_3a
+Dir :/product/overlay/EmulationPixel3a/EmulationPixel3aOverlay.apk
+
+Name :com.android.internal.emulation.pixel_4a
+Dir :/product/overlay/EmulationPixel4a/EmulationPixel4aOverlay.apk
+
+Name :com.google.android.overlay.googlewebview
+Dir :/product/overlay/GoogleWebViewOverlay.apk
+
+Name :com.android.systemui.plugin.globalactions.wallet
+Dir :/system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk
+
+Name :com.android.providers.downloads.ui
+Dir :/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk
+
+Name :com.google.android.hotspot2.osulogin
+Dir :/apex/com.android.wifi/app/OsuLoginGoogle@331016010/OsuLoginGoogle.apk
+
+Name :com.android.vending
+Dir :/product/app/LicenseChecker/LicenseChecker.apk
+
+Name :com.android.pacprocessor
+Dir :/system/app/PacProcessor/PacProcessor.apk
+
+Name :com.android.simappdialog
+Dir :/system/app/SimAppDialog/SimAppDialog.apk
+
+Name :com.google.android.adservices.api
+Dir :/apex/com.android.adservices/priv-app/AdServicesApkGoogle@330442000/AdServicesApkGoogle.apk
+
+Name :com.android.internal.display.cutout.emulation.hole
+Dir :/product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk
+
+Name :com.android.internal.display.cutout.emulation.tall
+Dir :/product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk
+
+Name :com.android.certinstaller
+Dir :/system/app/CertInstaller/CertInstaller.apk
+
+Name :com.android.carrierconfig
+Dir :/system_ext/priv-app/CarrierConfig/CarrierConfig.apk
+
+Name :com.android.internal.systemui.navbar.threebutton
+Dir :/product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk
+
+Name :android
+Dir :/system/framework/framework-res.apk
+
+Name :com.android.camera2
+Dir :/product/app/Camera2/Camera2.apk
+
+Name :com.MagicDate
+Dir :/data/app/~~SA4cfOWaH5i63IwIVBYB1Q==/com.MagicDate-nCZDdPS2Uvkl1LbZObIo0g==/base.apk
+
+Name :com.google.android.sdksandbox
+Dir :/apex/com.android.adservices/app/SdkSandboxGoogle@330442000/SdkSandboxGoogle.apk
+
+Name :com.android.egg
+Dir :/system/app/EasterEgg/EasterEgg.apk
+
+Name :com.android.mtp
+Dir :/system/priv-app/MtpService/MtpService.apk
+
+Name :com.android.nfc
+Dir :/system/app/NfcNci/NfcNci.apk
+
+Name :com.android.ons
+Dir :/system/priv-app/ONS/ONS.apk
+
+Name :com.android.stk
+Dir :/system/app/Stk/Stk.apk
+
+Name :com.android.backupconfirm
+Dir :/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk
+
+Name :com.android.systemui.auto_generated_rro_vendor__
+Dir :/vendor/overlay/SystemUIGoogle__auto_generated_rro_vendor.apk
+
+Name :com.google.android.deskclock
+Dir :/product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk
+
+Name :com.android.internal.systemui.navbar.twobutton
+Dir :/product/overlay/NavigationBarMode2Button/NavigationBarMode2ButtonOverlay.apk
+
+Name :com.google.android.gm
+Dir :/product/app/PrebuiltGmail/PrebuiltGmail.apk
+
+Name :com.android.internal.systemui.navbar.gestural_extra_wide_back
+Dir :/product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk
+
+Name :com.google.android.permissioncontroller
+Dir :/apex/com.android.permission/priv-app/GooglePermissionController@331019000/GooglePermissionController.apk
+
+Name :com.android.systemui.emulation.pixel_3
+Dir :/product/overlay/SystemUIEmulationPixel3/SystemUIEmulationPixel3Overlay.apk
+
+Name :com.android.systemui.emulation.pixel_4
+Dir :/product/overlay/SystemUIEmulationPixel4/SystemUIEmulationPixel4Overlay.apk
+
+Name :com.android.systemui.emulation.pixel_5
+Dir :/product/overlay/SystemUIEmulationPixel5/SystemUIEmulationPixel5Overlay.apk
+
+Name :com.google.android.setupwizard
+Dir :/product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk
+
+Name :com.android.emulator.radio.config
+Dir :/system_ext/priv-app/EmulatorRadioConfig/EmulatorRadioConfig.apk
+
+Name :com.android.providers.settings
+Dir :/system/priv-app/SettingsProvider/SettingsProvider.apk
+
+Name :com.android.sharedstoragebackup
+Dir :/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk
+
+Name :com.android.nfc.auto_generated_rro_product__
+Dir :/product/overlay/NfcNci__auto_generated_rro_product.apk
+
+Name :com.android.printspooler
+Dir :/system/app/PrintSpooler/PrintSpooler.apk
+
+Name :com.android.emergency.auto_generated_rro_product__
+Dir :/product/overlay/EmergencyInfo__auto_generated_rro_product.apk
+
+Name :com.google.android.connectivity.resources.goldfish.overlay
+Dir :/vendor/overlay/goldfish_overlay_connectivity_google.apk
+
+Name :com.android.dreams.basic
+Dir :/system/app/BasicDreams/BasicDreams.apk
+
+Name :com.google.android.networkstack.tethering.emulator
+Dir :/product/overlay/EmulatorTetheringGoogleConfigOverlay.apk
+
+Name :com.android.providers.settings.auto_generated_rro_product__
+Dir :/product/overlay/SettingsProvider__auto_generated_rro_product.apk
+
+Name :com.android.se
+Dir :/system/app/SecureElement/SecureElement.apk
+
+Name :com.android.inputdevices
+Dir :/system/priv-app/InputDevices/InputDevices.apk
+
+Name :com.android.traceur.auto_generated_rro_product__
+Dir :/product/overlay/Traceur__auto_generated_rro_product.apk
+
+Name :com.google.android.apps.wellbeing
+Dir :/product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk
+
+Name :com.google.android.dialer
+Dir :/product/priv-app/GoogleDialer/GoogleDialer.apk
+
+Name :com.android.bips
+Dir :/system/priv-app/BuiltInPrintService/BuiltInPrintService.apk
+
+Name :com.android.internal.emulation.pixel_3
+Dir :/product/overlay/EmulationPixel3/EmulationPixel3Overlay.apk
+
+Name :com.android.internal.emulation.pixel_4
+Dir :/product/overlay/EmulationPixel4/EmulationPixel4Overlay.apk
+
+Name :com.android.internal.emulation.pixel_5
+Dir :/product/overlay/EmulationPixel5/EmulationPixel5Overlay.apk
+
+Name :com.google.android.captiveportallogin
+Dir :/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk
+
+Name :com.android.musicfx
+Dir :/system/priv-app/MusicFX/MusicFX.apk
+
+Name :com.google.android.apps.docs
+Dir :/product/app/Drive/Drive.apk
+
+Name :com.google.android.apps.maps
+Dir :/product/app/Maps/Maps.apk
+
+Name :com.google.android.modulemetadata
+Dir :/product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk
+
+Name :com.android.internal.display.cutout.emulation.emu01
+Dir :/product/overlay/DisplayCutoutEmulationEmu01/DisplayCutoutEmulationEmu01Overlay.apk
+
+Name :com.google.android.markup
+Dir :/product/app/MarkupGoogle/MarkupGoogle.apk
+
+Name :com.android.providers.settings.auto_generated_rro_vendor__
+Dir :/vendor/overlay/SettingsProvider__auto_generated_rro_vendor.apk
+
+Name :com.android.cellbroadcastreceiver
+Dir :/system/priv-app/CellBroadcastLegacyApp/CellBroadcastLegacyApp.apk
+
+Name :com.google.android.webview
+Dir :/data/app/~~HNpYsaqK8paKBOcU6iSc-g==/com.google.android.webview-GJs1_Yh8SB6eCu3Piei2Iw==/WebViewGoogle.apk
+
+Name :com.google.android.bluetooth.services
+Dir :/system/app/BluetoothMigrationForBeta3User/BluetoothMigrationForBeta3User.apk
+
+Name :com.google.android.networkstack
+Dir :/system/priv-app/NetworkStackGoogle/NetworkStackGoogle.apk
+
+Name :com.google.android.contacts
+Dir :/product/app/GoogleContacts/GoogleContacts.apk
+
+Name :com.android.server.telecom
+Dir :/system/priv-app/Telecom/Telecom.apk
+
+Name :com.android.keychain
+Dir :/system/app/KeyChain/KeyChain.apk
+
+Name :com.android.server.telecom.auto_generated_rro_product__
+Dir :/product/overlay/Telecom__auto_generated_rro_product.apk
+
+Name :com.google.android.overlay.googleconfig
+Dir :/product/overlay/GoogleConfigOverlay.apk
+
+Name :com.android.chrome
+Dir :/data/app/~~4H5pteb--T0ehb7-mscNCQ==/com.android.chrome-M8Ca9CNfrcnhQN68NMaZEA==/Chrome.apk
+
+Name :com.android.bips.auto_generated_rro_product__
+Dir :/product/overlay/BuiltInPrintService__auto_generated_rro_product.apk
+
+Name :com.google.android.packageinstaller
+Dir :/system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk
+
+Name :com.google.android.apps.customization.pixel
+Dir :/product/app/PixelThemesStub/PixelThemesStub.apk
+
+Name :com.google.android.gms
+Dir :/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk
+
+Name :com.google.android.gsf
+Dir :/system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
+
+Name :com.google.android.ims
+Dir :/product/priv-app/CarrierServices/CarrierServices.apk
+
+Name :com.google.android.tag
+Dir :/system/priv-app/TagGoogle/TagGoogle.apk
+
+Name :com.google.android.tts
+Dir :/product/app/GoogleTTS/GoogleTTS.apk
+
+Name :com.google.android.overlay.permissioncontroller
+Dir :/product/overlay/GooglePermissionControllerOverlay.apk
+
+Name :com.android.calllogbackup
+Dir :/system/priv-app/CallLogBackup/CallLogBackup.apk
+
+Name :com.google.android.partnersetup
+Dir :/product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk
+
+Name :com.android.cameraextensions
+Dir :/system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk
+
+Name :com.google.android.apps.wallpaper.nexus
+Dir :/product/app/NexusWallpapersStubPrebuilt2018/NexusWallpapersStubPrebuilt2018.apk
+
+Name :com.android.localtransport
+Dir :/system/priv-app/LocalTransport/LocalTransport.apk
+
+Name :com.google.android.apps.nexuslauncher
+Dir :/system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk
+
+Name :com.google.android.nearby.halfsheet
+Dir :/apex/com.android.tethering/app/HalfSheetUXGoogle@331012010/HalfSheetUXGoogle.apk
+
+Name :com.android.carrierdefaultapp
+Dir :/system/app/CarrierDefaultApp/CarrierDefaultApp.apk
+
+Name :com.android.theme.font.notoserifsource
+Dir :/product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk
+
+Name :com.android.proxyhandler
+Dir :/system/priv-app/ProxyHandler/ProxyHandler.apk
+
+Name :com.google.android.safetycenter.resources
+Dir :/apex/com.android.permission/priv-app/GoogleSafetyCenterResources@331019000/GoogleSafetyCenterResources.apk
+
+Name :com.android.internal.display.cutout.emulation.waterfall
+Dir :/product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk
+
+Name :com.android.intentresolver
+Dir :/system/priv-app/IntentResolver/IntentResolver.apk
+
+Name :com.google.android.connectivity.resources
+Dir :/apex/com.android.tethering/priv-app/ServiceConnectivityResourcesGoogle@331012010/ServiceConnectivityResourcesGoogle.apk
+
+Name :com.android.providers.contacts.auto_generated_rro_product__
+Dir :/product/overlay/ContactsProvider__auto_generated_rro_product.apk
+
+Name :com.google.android.feedback
+Dir :/system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk
+
+Name :com.google.android.printservice.recommendation
+Dir :/system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk
+
+Name :com.google.android.apps.photos
+Dir :/product/app/Photos/Photos.apk
+
+Name :com.google.android.calendar
+Dir :/product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk
+
+Name :com.android.managedprovisioning
+Dir :/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
+
+Name :com.android.soundpicker
+Dir :/system/priv-app/SoundPicker/SoundPicker.apk
+
+Name :com.google.android.documentsui
+Dir :/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk
+
+Name :com.android.systemui.emulation.pixel_3a_xl
+Dir :/product/overlay/SystemUIEmulationPixel3aXL/SystemUIEmulationPixel3aXLOverlay.apk
+
+Name :com.google.mainline.telemetry
+Dir :/product/app/PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk
+
+Name :com.google.android.systemui.gxoverlay
+Dir :/product/overlay/SystemUIGXOverlay.apk
+
+Name :com.android.carrierconfig.auto_generated_rro_product__
+Dir :/product/overlay/CarrierConfig__auto_generated_rro_product.apk
+
+Name :com.android.emulator.multidisplay
+Dir :/system_ext/priv-app/MultiDisplayProvider/MultiDisplayProvider.apk
+
+Name :com.android.providers.partnerbookmarks
+Dir :/system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk
+
+Name :com.android.wallpaper.livepicker
+Dir :/system/priv-app/LiveWallpapersPicker/LiveWallpapersPicker.apk
+
+Name :com.android.providers.telephony.auto_generated_rro_product__
+Dir :/product/overlay/TelephonyProvider__auto_generated_rro_product.apk
+
+Name :com.android.phone.auto_generated_rro_vendor__
+Dir :/vendor/overlay/TeleService__auto_generated_rro_vendor.apk
+
+Name :com.google.mainline.adservices
+Dir :/product/app/PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk
+
+Name :com.android.imsserviceentitlement
+Dir :/product/priv-app/ImsServiceEntitlement/ImsServiceEntitlement.apk
+
+Name :com.google.android.sdksetup
+Dir :/system_ext/priv-app/GoogleSdkSetup/GoogleSdkSetup.apk
+
+Name :com.google.android.gms.supervision
+Dir :/product/priv-app/KidsSupervisionStub/KidsSupervisionStub.apk
+
+Name :com.android.internal.emulation.pixel_2_xl
+Dir :/product/overlay/EmulationPixel2XL/EmulationPixel2XLOverlay.apk
+
+Name :com.android.internal.emulation.pixel_3_xl
+Dir :/product/overlay/EmulationPixel3XL/EmulationPixel3XLOverlay.apk
+
+Name :com.android.internal.emulation.pixel_4_xl
+Dir :/product/overlay/EmulationPixel4XL/EmulationPixel4XLOverlay.apk
+
+Name :com.android.storagemanager
+Dir :/system_ext/priv-app/StorageManager/StorageManager.apk
+
+Name :com.android.bookmarkprovider
+Dir :/system/app/BookmarkProvider/BookmarkProvider.apk
+
+Name :com.google.android.overlay.pixelconfigcommon
+Dir :/product/overlay/PixelConfigOverlayCommon.apk
+
+Name :com.android.settings
+Dir :/system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk
+
+Name :com.android.systemui.emulation.pixel_3a
+Dir :/product/overlay/SystemUIEmulationPixel3a/SystemUIEmulationPixel3aOverlay.apk
+
+Name :com.android.systemui.emulation.pixel_4a
+Dir :/product/overlay/SystemUIEmulationPixel4a/SystemUIEmulationPixel4aOverlay.apk
+
+Name :com.google.android.settings.intelligence
+Dir :/product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk
+
+Name :com.google.android.projection.gearhead
+Dir :/product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk
+
+Name :com.android.cts.ctsshim
+Dir :/apex/com.android.apex.cts.shim/app/CtsShim@1/CtsShim.apk
+
+Name :com.google.android.wifi.resources
+Dir :/apex/com.android.wifi/priv-app/ServiceWifiResourcesGoogle@331016010/ServiceWifiResourcesGoogle.apk
+
+Name :com.android.remoteprovisioner
+Dir :/system_ext/priv-app/RemoteProvisioner/RemoteProvisioner.apk
+
+Name :com.google.android.wifi.dialog
+Dir :/apex/com.android.wifi/app/WifiDialogGoogle@331016010/WifiDialogGoogle.apk
+
+Name :com.android.vpndialogs
+Dir :/system/priv-app/VpnDialogs/VpnDialogs.apk
+
+Name :com.google.android.apps.wallpaper
+Dir :/system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk
+
+Name :com.android.phone
+Dir :/system/priv-app/TeleService/TeleService.apk
+
+Name :com.android.shell
+Dir :/system/priv-app/Shell/Shell.apk
+
+Name :com.android.wallpaperbackup
+Dir :/system/app/WallpaperBackup/WallpaperBackup.apk
+
+Name :com.android.providers.blockednumber
+Dir :/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk
+
+Name :com.android.settings.auto_generated_rro_product__
+Dir :/product/overlay/SettingsGoogle__auto_generated_rro_product.apk
+
+Name :com.android.providers.userdictionary
+Dir :/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk
+
+Name :com.android.emergency
+Dir :/system_ext/priv-app/EmergencyInfo/EmergencyInfo.apk
+
+Name :com.android.internal.systemui.navbar.gestural
+Dir :/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+
+Name :com.android.location.fused
+Dir :/system/priv-app/FusedLocation/FusedLocation.apk
+
+Name :com.android.systemui
+Dir :/system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk
+
+Name :com.google.android.ondevicepersonalization.services
+Dir :/apex/com.android.ondevicepersonalization/app/OnDevicePersonalizationGoogle@330442000/OnDevicePersonalizationGoogle.apk
+
+Name :com.google.android.apps.youtube.music
+Dir :/product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk
+
+Name :com.android.bluetoothmidiservice
+Dir :/system/app/BluetoothMidiService/BluetoothMidiService.apk
+
+Name :com.android.traceur
+Dir :/system/app/Traceur/Traceur.apk
+
+Name :com.android.storagemanager.auto_generated_rro_product__
+Dir :/product/overlay/StorageManager__auto_generated_rro_product.apk
+
+Name :com.google.android.cellbroadcastreceiver
+Dir :/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastApp@331013000/GoogleCellBroadcastApp.apk
+
+Name :com.android.phone.auto_generated_rro_product__
+Dir :/product/overlay/TeleService__auto_generated_rro_product.apk
+
+Name :android.auto_generated_rro_product__
+Dir :/product/overlay/framework-res__auto_generated_rro_product.apk
+
+Name :com.android.bluetooth
+Dir :/apex/com.android.btservices/app/BluetoothGoogle@TE1A.220922.012/BluetoothGoogle.apk
+
+Name :com.android.providers.contacts
+Dir :/system/priv-app/ContactsProvider/ContactsProvider.apk
+
+Name :com.android.internal.systemui.navbar.gestural_narrow_back
+Dir :/product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk
+
+Name :com.google.android.inputmethod.latin
+Dir :/product/app/LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk
+
+Name :android.auto_generated_rro_vendor__
+Dir :/vendor/overlay/framework-res__auto_generated_rro_vendor.apk
+
+Name :com.google.android.apps.restore
+Dir :/product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk
+
+SDK_VERSION: 33
+SDK_RELASE: 13
+SERIAL: unknown
+MODEL: sdk_gphone64_x86_64
+ID: TE1A.220922.012
+Manufacture: Google
+brand: google
+type: userdebug
+user: android-build
+BASE: 1
+INCREMENTAL 9302419
+BOARD: goldfish_x86_64
+BRAND google
+HOST abfarm-release-2004-0110
+FINGERPRINT: google/sdk_gphone64_x86_64/emu64x:13/TE1A.220922.012/9302419:userdebug/dev-keys
+Version Code: 13
+Phone numbers : 
+
+Emails : 
+
+Installed apks : 
+Name :com.google.android.networkstack.tethering
+Dir :/apex/com.android.tethering/priv-app/TetheringGoogle@331012010/TetheringGoogle.apk
+
+Name :com.android.cts.priv.ctsshim
+Dir :/apex/com.android.apex.cts.shim/priv-app/CtsShimPriv@1/CtsShimPriv.apk
+
+Name :com.google.android.youtube
+Dir :/product/app/YouTube/YouTube.apk
+
+Name :com.android.uwb.resources
+Dir :/apex/com.android.uwb/priv-app/ServiceUwbResources@331015010/ServiceUwbResources.apk
+
+Name :com.android.internal.display.cutout.emulation.corner
+Dir :/product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk
+
+Name :com.google.android.ext.services
+Dir :/apex/com.android.extservices/priv-app/GoogleExtServices@331012000/GoogleExtServices.apk
+
+Name :com.android.internal.display.cutout.emulation.double
+Dir :/product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk
+
+Name :com.android.providers.telephony
+Dir :/system/priv-app/TelephonyProvider/TelephonyProvider.apk
+
+Name :com.android.dynsystem
+Dir :/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk
+
+Name :com.google.android.googlequicksearchbox
+Dir :/product/priv-app/Velvet/Velvet.apk
+
+Name :com.google.android.cellbroadcastservice
+Dir :/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastServiceModule@331013000/GoogleCellBroadcastServiceModule.apk
+
+Name :com.android.providers.calendar
+Dir :/system/priv-app/CalendarProvider/CalendarProvider.apk
+
+Name :com.android.providers.media
+Dir :/system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk
+
+Name :com.google.android.onetimeinitializer
+Dir :/product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
+
+Name :com.google.android.ext.shared
+Dir :/system/app/GoogleExtShared/GoogleExtShared.apk
+
+Name :com.android.internal.systemui.navbar.gestural_wide_back
+Dir :/product/overlay/NavigationBarModeGesturalWideBack/NavigationBarModeGesturalOverlayWideBack.apk
+
+Name :com.android.wallpapercropper
+Dir :/system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk
+
+Name :com.android.managedprovisioning.auto_generated_rro_product__
+Dir :/product/overlay/ManagedProvisioning__auto_generated_rro_product.apk
+
+Name :com.android.carrierconfig.auto_generated_rro_vendor__
+Dir :/vendor/overlay/CarrierConfig__auto_generated_rro_vendor.apk
+
+Name :com.android.systemui.emulation.pixel_3_xl
+Dir :/product/overlay/SystemUIEmulationPixel3XL/SystemUIEmulationPixel3XLOverlay.apk
+
+Name :com.android.systemui.emulation.pixel_4_xl
+Dir :/product/overlay/SystemUIEmulationPixel4XL/SystemUIEmulationPixel4XLOverlay.apk
+
+Name :com.android.simappdialog.auto_generated_rro_product__
+Dir :/product/overlay/SimAppDialog__auto_generated_rro_product.apk
+
+Name :com.android.externalstorage
+Dir :/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
+
+Name :com.android.htmlviewer
+Dir :/system/app/HTMLViewer/HTMLViewer.apk
+
+Name :com.android.companiondevicemanager
+Dir :/system/app/CompanionDeviceManager/CompanionDeviceManager.apk
+
+Name :com.android.mms.service
+Dir :/system/priv-app/MmsService/MmsService.apk
+
+Name :com.android.providers.downloads
+Dir :/system/priv-app/DownloadProvider/DownloadProvider.apk
+
+Name :com.android.systemui.auto_generated_rro_product__
+Dir :/product/overlay/SystemUIGoogle__auto_generated_rro_product.apk
+
+Name :com.google.android.apps.messaging
+Dir :/product/priv-app/PrebuiltBugle/PrebuiltBugle.apk
+
+Name :com.google.android.soundpicker
+Dir :/product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk
+
+Name :com.breel.wallpapers18
+Dir :/product/app/WallpapersBReel2018/WallpapersBReel2018.apk
+
+Name :com.google.android.configupdater
+Dir :/product/priv-app/ConfigUpdater/ConfigUpdater.apk
+
+Name :com.android.internal.emulation.pixel_3a_xl
+Dir :/product/overlay/EmulationPixel3aXL/EmulationPixel3aXLOverlay.apk
+
+Name :com.google.android.providers.media.module
+Dir :/apex/com.android.mediaprovider/priv-app/MediaProviderGoogle@331011020/MediaProviderGoogle.apk
+
+Name :com.android.internal.emulation.pixel_3a
+Dir :/product/overlay/EmulationPixel3a/EmulationPixel3aOverlay.apk
+
+Name :com.android.internal.emulation.pixel_4a
+Dir :/product/overlay/EmulationPixel4a/EmulationPixel4aOverlay.apk
+
+Name :com.google.android.overlay.googlewebview
+Dir :/product/overlay/GoogleWebViewOverlay.apk
+
+Name :com.android.systemui.plugin.globalactions.wallet
+Dir :/system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk
+
+Name :com.android.providers.downloads.ui
+Dir :/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk
+
+Name :com.google.android.hotspot2.osulogin
+Dir :/apex/com.android.wifi/app/OsuLoginGoogle@331016010/OsuLoginGoogle.apk
+
+Name :com.android.vending
+Dir :/product/app/LicenseChecker/LicenseChecker.apk
+
+Name :com.android.pacprocessor
+Dir :/system/app/PacProcessor/PacProcessor.apk
+
+Name :com.android.simappdialog
+Dir :/system/app/SimAppDialog/SimAppDialog.apk
+
+Name :com.google.android.adservices.api
+Dir :/apex/com.android.adservices/priv-app/AdServicesApkGoogle@330442000/AdServicesApkGoogle.apk
+
+Name :com.android.internal.display.cutout.emulation.hole
+Dir :/product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk
+
+Name :com.android.internal.display.cutout.emulation.tall
+Dir :/product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk
+
+Name :com.android.certinstaller
+Dir :/system/app/CertInstaller/CertInstaller.apk
+
+Name :com.android.carrierconfig
+Dir :/system_ext/priv-app/CarrierConfig/CarrierConfig.apk
+
+Name :com.android.internal.systemui.navbar.threebutton
+Dir :/product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk
+
+Name :android
+Dir :/system/framework/framework-res.apk
+
+Name :com.android.camera2
+Dir :/product/app/Camera2/Camera2.apk
+
+Name :com.MagicDate
+Dir :/data/app/~~SA4cfOWaH5i63IwIVBYB1Q==/com.MagicDate-nCZDdPS2Uvkl1LbZObIo0g==/base.apk
+
+Name :com.google.android.sdksandbox
+Dir :/apex/com.android.adservices/app/SdkSandboxGoogle@330442000/SdkSandboxGoogle.apk
+
+Name :com.android.egg
+Dir :/system/app/EasterEgg/EasterEgg.apk
+
+Name :com.android.mtp
+Dir :/system/priv-app/MtpService/MtpService.apk
+
+Name :com.android.nfc
+Dir :/system/app/NfcNci/NfcNci.apk
+
+Name :com.android.ons
+Dir :/system/priv-app/ONS/ONS.apk
+
+Name :com.android.stk
+Dir :/system/app/Stk/Stk.apk
+
+Name :com.android.backupconfirm
+Dir :/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk
+
+Name :com.android.systemui.auto_generated_rro_vendor__
+Dir :/vendor/overlay/SystemUIGoogle__auto_generated_rro_vendor.apk
+
+Name :com.google.android.deskclock
+Dir :/product/app/PrebuiltDeskClockGoogle/PrebuiltDeskClockGoogle.apk
+
+Name :com.android.internal.systemui.navbar.twobutton
+Dir :/product/overlay/NavigationBarMode2Button/NavigationBarMode2ButtonOverlay.apk
+
+Name :com.google.android.gm
+Dir :/product/app/PrebuiltGmail/PrebuiltGmail.apk
+
+Name :com.android.internal.systemui.navbar.gestural_extra_wide_back
+Dir :/product/overlay/NavigationBarModeGesturalExtraWideBack/NavigationBarModeGesturalOverlayExtraWideBack.apk
+
+Name :com.google.android.permissioncontroller
+Dir :/apex/com.android.permission/priv-app/GooglePermissionController@331019000/GooglePermissionController.apk
+
+Name :com.android.systemui.emulation.pixel_3
+Dir :/product/overlay/SystemUIEmulationPixel3/SystemUIEmulationPixel3Overlay.apk
+
+Name :com.android.systemui.emulation.pixel_4
+Dir :/product/overlay/SystemUIEmulationPixel4/SystemUIEmulationPixel4Overlay.apk
+
+Name :com.android.systemui.emulation.pixel_5
+Dir :/product/overlay/SystemUIEmulationPixel5/SystemUIEmulationPixel5Overlay.apk
+
+Name :com.google.android.setupwizard
+Dir :/product/priv-app/SetupWizardPrebuilt/SetupWizardPrebuilt.apk
+
+Name :com.android.emulator.radio.config
+Dir :/system_ext/priv-app/EmulatorRadioConfig/EmulatorRadioConfig.apk
+
+Name :com.android.providers.settings
+Dir :/system/priv-app/SettingsProvider/SettingsProvider.apk
+
+Name :com.android.sharedstoragebackup
+Dir :/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk
+
+Name :com.android.nfc.auto_generated_rro_product__
+Dir :/product/overlay/NfcNci__auto_generated_rro_product.apk
+
+Name :com.android.printspooler
+Dir :/system/app/PrintSpooler/PrintSpooler.apk
+
+Name :com.android.emergency.auto_generated_rro_product__
+Dir :/product/overlay/EmergencyInfo__auto_generated_rro_product.apk
+
+Name :com.google.android.connectivity.resources.goldfish.overlay
+Dir :/vendor/overlay/goldfish_overlay_connectivity_google.apk
+
+Name :com.android.dreams.basic
+Dir :/system/app/BasicDreams/BasicDreams.apk
+
+Name :com.google.android.networkstack.tethering.emulator
+Dir :/product/overlay/EmulatorTetheringGoogleConfigOverlay.apk
+
+Name :com.android.providers.settings.auto_generated_rro_product__
+Dir :/product/overlay/SettingsProvider__auto_generated_rro_product.apk
+
+Name :com.android.se
+Dir :/system/app/SecureElement/SecureElement.apk
+
+Name :com.android.inputdevices
+Dir :/system/priv-app/InputDevices/InputDevices.apk
+
+Name :com.android.traceur.auto_generated_rro_product__
+Dir :/product/overlay/Traceur__auto_generated_rro_product.apk
+
+Name :com.google.android.apps.wellbeing
+Dir :/product/priv-app/WellbeingPrebuilt/WellbeingPrebuilt.apk
+
+Name :com.google.android.dialer
+Dir :/product/priv-app/GoogleDialer/GoogleDialer.apk
+
+Name :com.android.bips
+Dir :/system/priv-app/BuiltInPrintService/BuiltInPrintService.apk
+
+Name :com.android.internal.emulation.pixel_3
+Dir :/product/overlay/EmulationPixel3/EmulationPixel3Overlay.apk
+
+Name :com.android.internal.emulation.pixel_4
+Dir :/product/overlay/EmulationPixel4/EmulationPixel4Overlay.apk
+
+Name :com.android.internal.emulation.pixel_5
+Dir :/product/overlay/EmulationPixel5/EmulationPixel5Overlay.apk
+
+Name :com.google.android.captiveportallogin
+Dir :/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk
+
+Name :com.android.musicfx
+Dir :/system/priv-app/MusicFX/MusicFX.apk
+
+Name :com.google.android.apps.docs
+Dir :/product/app/Drive/Drive.apk
+
+Name :com.google.android.apps.maps
+Dir :/product/app/Maps/Maps.apk
+
+Name :com.google.android.modulemetadata
+Dir :/product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk
+
+Name :com.android.internal.display.cutout.emulation.emu01
+Dir :/product/overlay/DisplayCutoutEmulationEmu01/DisplayCutoutEmulationEmu01Overlay.apk
+
+Name :com.google.android.markup
+Dir :/product/app/MarkupGoogle/MarkupGoogle.apk
+
+Name :com.android.providers.settings.auto_generated_rro_vendor__
+Dir :/vendor/overlay/SettingsProvider__auto_generated_rro_vendor.apk
+
+Name :com.android.cellbroadcastreceiver
+Dir :/system/priv-app/CellBroadcastLegacyApp/CellBroadcastLegacyApp.apk
+
+Name :com.google.android.webview
+Dir :/data/app/~~HNpYsaqK8paKBOcU6iSc-g==/com.google.android.webview-GJs1_Yh8SB6eCu3Piei2Iw==/WebViewGoogle.apk
+
+Name :com.google.android.bluetooth.services
+Dir :/system/app/BluetoothMigrationForBeta3User/BluetoothMigrationForBeta3User.apk
+
+Name :com.google.android.networkstack
+Dir :/system/priv-app/NetworkStackGoogle/NetworkStackGoogle.apk
+
+Name :com.google.android.contacts
+Dir :/product/app/GoogleContacts/GoogleContacts.apk
+
+Name :com.android.server.telecom
+Dir :/system/priv-app/Telecom/Telecom.apk
+
+Name :com.android.keychain
+Dir :/system/app/KeyChain/KeyChain.apk
+
+Name :com.android.server.telecom.auto_generated_rro_product__
+Dir :/product/overlay/Telecom__auto_generated_rro_product.apk
+
+Name :com.google.android.overlay.googleconfig
+Dir :/product/overlay/GoogleConfigOverlay.apk
+
+Name :com.android.chrome
+Dir :/data/app/~~4H5pteb--T0ehb7-mscNCQ==/com.android.chrome-M8Ca9CNfrcnhQN68NMaZEA==/Chrome.apk
+
+Name :com.android.bips.auto_generated_rro_product__
+Dir :/product/overlay/BuiltInPrintService__auto_generated_rro_product.apk
+
+Name :com.google.android.packageinstaller
+Dir :/system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk
+
+Name :com.google.android.apps.customization.pixel
+Dir :/product/app/PixelThemesStub/PixelThemesStub.apk
+
+Name :com.google.android.gms
+Dir :/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk
+
+Name :com.google.android.gsf
+Dir :/system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
+
+Name :com.google.android.ims
+Dir :/product/priv-app/CarrierServices/CarrierServices.apk
+
+Name :com.google.android.tag
+Dir :/system/priv-app/TagGoogle/TagGoogle.apk
+
+Name :com.google.android.tts
+Dir :/product/app/GoogleTTS/GoogleTTS.apk
+
+Name :com.google.android.overlay.permissioncontroller
+Dir :/product/overlay/GooglePermissionControllerOverlay.apk
+
+Name :com.android.calllogbackup
+Dir :/system/priv-app/CallLogBackup/CallLogBackup.apk
+
+Name :com.google.android.partnersetup
+Dir :/product/priv-app/PartnerSetupPrebuilt/PartnerSetupPrebuilt.apk
+
+Name :com.android.cameraextensions
+Dir :/system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk
+
+Name :com.google.android.apps.wallpaper.nexus
+Dir :/product/app/NexusWallpapersStubPrebuilt2018/NexusWallpapersStubPrebuilt2018.apk
+
+Name :com.android.localtransport
+Dir :/system/priv-app/LocalTransport/LocalTransport.apk
+
+Name :com.google.android.apps.nexuslauncher
+Dir :/system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk
+
+Name :com.google.android.nearby.halfsheet
+Dir :/apex/com.android.tethering/app/HalfSheetUXGoogle@331012010/HalfSheetUXGoogle.apk
+
+Name :com.android.carrierdefaultapp
+Dir :/system/app/CarrierDefaultApp/CarrierDefaultApp.apk
+
+Name :com.android.theme.font.notoserifsource
+Dir :/product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk
+
+Name :com.android.proxyhandler
+Dir :/system/priv-app/ProxyHandler/ProxyHandler.apk
+
+Name :com.google.android.safetycenter.resources
+Dir :/apex/com.android.permission/priv-app/GoogleSafetyCenterResources@331019000/GoogleSafetyCenterResources.apk
+
+Name :com.android.internal.display.cutout.emulation.waterfall
+Dir :/product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk
+
+Name :com.android.intentresolver
+Dir :/system/priv-app/IntentResolver/IntentResolver.apk
+
+Name :com.google.android.connectivity.resources
+Dir :/apex/com.android.tethering/priv-app/ServiceConnectivityResourcesGoogle@331012010/ServiceConnectivityResourcesGoogle.apk
+
+Name :com.android.providers.contacts.auto_generated_rro_product__
+Dir :/product/overlay/ContactsProvider__auto_generated_rro_product.apk
+
+Name :com.google.android.feedback
+Dir :/system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk
+
+Name :com.google.android.printservice.recommendation
+Dir :/system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk
+
+Name :com.google.android.apps.photos
+Dir :/product/app/Photos/Photos.apk
+
+Name :com.google.android.calendar
+Dir :/product/app/CalendarGooglePrebuilt/CalendarGooglePrebuilt.apk
+
+Name :com.android.managedprovisioning
+Dir :/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
+
+Name :com.android.soundpicker
+Dir :/system/priv-app/SoundPicker/SoundPicker.apk
+
+Name :com.google.android.documentsui
+Dir :/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk
+
+Name :com.android.systemui.emulation.pixel_3a_xl
+Dir :/product/overlay/SystemUIEmulationPixel3aXL/SystemUIEmulationPixel3aXLOverlay.apk
+
+Name :com.google.mainline.telemetry
+Dir :/product/app/PrebuiltGoogleTelemetryTvp/PrebuiltGoogleTelemetryTvp.apk
+
+Name :com.google.android.systemui.gxoverlay
+Dir :/product/overlay/SystemUIGXOverlay.apk
+
+Name :com.android.carrierconfig.auto_generated_rro_product__
+Dir :/product/overlay/CarrierConfig__auto_generated_rro_product.apk
+
+Name :com.android.emulator.multidisplay
+Dir :/system_ext/priv-app/MultiDisplayProvider/MultiDisplayProvider.apk
+
+Name :com.android.providers.partnerbookmarks
+Dir :/system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk
+
+Name :com.android.wallpaper.livepicker
+Dir :/system/priv-app/LiveWallpapersPicker/LiveWallpapersPicker.apk
+
+Name :com.android.providers.telephony.auto_generated_rro_product__
+Dir :/product/overlay/TelephonyProvider__auto_generated_rro_product.apk
+
+Name :com.android.phone.auto_generated_rro_vendor__
+Dir :/vendor/overlay/TeleService__auto_generated_rro_vendor.apk
+
+Name :com.google.mainline.adservices
+Dir :/product/app/PrebuiltGoogleAdservicesTvp/PrebuiltGoogleAdservicesTvp.apk
+
+Name :com.android.imsserviceentitlement
+Dir :/product/priv-app/ImsServiceEntitlement/ImsServiceEntitlement.apk
+
+Name :com.google.android.sdksetup
+Dir :/system_ext/priv-app/GoogleSdkSetup/GoogleSdkSetup.apk
+
+Name :com.google.android.gms.supervision
+Dir :/product/priv-app/KidsSupervisionStub/KidsSupervisionStub.apk
+
+Name :com.android.internal.emulation.pixel_2_xl
+Dir :/product/overlay/EmulationPixel2XL/EmulationPixel2XLOverlay.apk
+
+Name :com.android.internal.emulation.pixel_3_xl
+Dir :/product/overlay/EmulationPixel3XL/EmulationPixel3XLOverlay.apk
+
+Name :com.android.internal.emulation.pixel_4_xl
+Dir :/product/overlay/EmulationPixel4XL/EmulationPixel4XLOverlay.apk
+
+Name :com.android.storagemanager
+Dir :/system_ext/priv-app/StorageManager/StorageManager.apk
+
+Name :com.android.bookmarkprovider
+Dir :/system/app/BookmarkProvider/BookmarkProvider.apk
+
+Name :com.google.android.overlay.pixelconfigcommon
+Dir :/product/overlay/PixelConfigOverlayCommon.apk
+
+Name :com.android.settings
+Dir :/system_ext/priv-app/SettingsGoogle/SettingsGoogle.apk
+
+Name :com.android.systemui.emulation.pixel_3a
+Dir :/product/overlay/SystemUIEmulationPixel3a/SystemUIEmulationPixel3aOverlay.apk
+
+Name :com.android.systemui.emulation.pixel_4a
+Dir :/product/overlay/SystemUIEmulationPixel4a/SystemUIEmulationPixel4aOverlay.apk
+
+Name :com.google.android.settings.intelligence
+Dir :/product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk
+
+Name :com.google.android.projection.gearhead
+Dir :/product/priv-app/AndroidAutoStubPrebuilt/AndroidAutoStubPrebuilt.apk
+
+Name :com.android.cts.ctsshim
+Dir :/apex/com.android.apex.cts.shim/app/CtsShim@1/CtsShim.apk
+
+Name :com.google.android.wifi.resources
+Dir :/apex/com.android.wifi/priv-app/ServiceWifiResourcesGoogle@331016010/ServiceWifiResourcesGoogle.apk
+
+Name :com.android.remoteprovisioner
+Dir :/system_ext/priv-app/RemoteProvisioner/RemoteProvisioner.apk
+
+Name :com.google.android.wifi.dialog
+Dir :/apex/com.android.wifi/app/WifiDialogGoogle@331016010/WifiDialogGoogle.apk
+
+Name :com.android.vpndialogs
+Dir :/system/priv-app/VpnDialogs/VpnDialogs.apk
+
+Name :com.google.android.apps.wallpaper
+Dir :/system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk
+
+Name :com.android.phone
+Dir :/system/priv-app/TeleService/TeleService.apk
+
+Name :com.android.shell
+Dir :/system/priv-app/Shell/Shell.apk
+
+Name :com.android.wallpaperbackup
+Dir :/system/app/WallpaperBackup/WallpaperBackup.apk
+
+Name :com.android.providers.blockednumber
+Dir :/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk
+
+Name :com.android.settings.auto_generated_rro_product__
+Dir :/product/overlay/SettingsGoogle__auto_generated_rro_product.apk
+
+Name :com.android.providers.userdictionary
+Dir :/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk
+
+Name :com.android.emergency
+Dir :/system_ext/priv-app/EmergencyInfo/EmergencyInfo.apk
+
+Name :com.android.internal.systemui.navbar.gestural
+Dir :/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk
+
+Name :com.android.location.fused
+Dir :/system/priv-app/FusedLocation/FusedLocation.apk
+
+Name :com.android.systemui
+Dir :/system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk
+
+Name :com.google.android.ondevicepersonalization.services
+Dir :/apex/com.android.ondevicepersonalization/app/OnDevicePersonalizationGoogle@330442000/OnDevicePersonalizationGoogle.apk
+
+Name :com.google.android.apps.youtube.music
+Dir :/product/app/YouTubeMusicPrebuilt/YouTubeMusicPrebuilt.apk
+
+Name :com.android.bluetoothmidiservice
+Dir :/system/app/BluetoothMidiService/BluetoothMidiService.apk
+
+Name :com.android.traceur
+Dir :/system/app/Traceur/Traceur.apk
+
+Name :com.android.storagemanager.auto_generated_rro_product__
+Dir :/product/overlay/StorageManager__auto_generated_rro_product.apk
+
+Name :com.google.android.cellbroadcastreceiver
+Dir :/apex/com.android.cellbroadcast/priv-app/GoogleCellBroadcastApp@331013000/GoogleCellBroadcastApp.apk
+
+Name :com.android.phone.auto_generated_rro_product__
+Dir :/product/overlay/TeleService__auto_generated_rro_product.apk
+
+Name :android.auto_generated_rro_product__
+Dir :/product/overlay/framework-res__auto_generated_rro_product.apk
+
+Name :com.android.bluetooth
+Dir :/apex/com.android.btservices/app/BluetoothGoogle@TE1A.220922.012/BluetoothGoogle.apk
+
+Name :com.android.providers.contacts
+Dir :/system/priv-app/ContactsProvider/ContactsProvider.apk
+
+Name :com.android.internal.systemui.navbar.gestural_narrow_back
+Dir :/product/overlay/NavigationBarModeGesturalNarrowBack/NavigationBarModeGesturalOverlayNarrowBack.apk
+
+Name :com.google.android.inputmethod.latin
+Dir :/product/app/LatinIMEGooglePrebuilt/LatinIMEGooglePrebuilt.apk
+
+Name :android.auto_generated_rro_vendor__
+Dir :/vendor/overlay/framework-res__auto_generated_rro_vendor.apk
+
+Name :com.google.android.apps.restore
+Dir :/product/priv-app/GoogleRestorePrebuilt/GoogleRestorePrebuilt.apk
+
